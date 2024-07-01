@@ -11,7 +11,7 @@
 <p>I am always eager to connect with other professionals in the tech community, collaborate on exciting projects, and explore new opportunities. Let's connect and create something amazing together!
 </p>
 </div>
-<h3>Familiar Techs</h3>
+## Familiar Techs
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
