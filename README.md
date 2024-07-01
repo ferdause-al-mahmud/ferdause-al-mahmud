@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.ibb.co/fqL0vVr/Modern-Brown-Corporate-Email-Signature.png" alt="ferdause-al-mahmud GitHub README header image">
+<img src="https://media.licdn.com/dms/image/D5616AQFqa2CEWoHLMQ/profile-displaybackgroundimage-shrink_350_1400/0/1716479791789?e=1725494400&v=beta&t=SUEhw0TzyTCMqrSKgR_oiHPdwUW44Pb52ok77bi2O7U" alt="ferdause-al-mahmud GitHub README header image">
 
 <!--
 **ferdause-al-mahmud/ferdause-al-mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
