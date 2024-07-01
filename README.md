@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQFqa2CEWoHLMQ/profile-displaybackgroundimage-shrink_350_1400/0/1716479791789?e=1725494400&v=beta&t=SUEhw0TzyTCMqrSKgR_oiHPdwUW44Pb52ok77bi2O7U" alt="ferdause-al-mahmud GitHub README header image">
 <p><a href="https://www.linkedin.com/in/ferdause-al-mahmud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/gamer.poka/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-<h3>About Me</h3>
+<h1>About Me</h1>
 <div>
 <h4>  Hello, I'm Ferdause Al Mahmud, a passionate and dedicated MERN Stack Developer with a strong foundation in creating dynamic and responsive web applications
 </h4>
@@ -11,7 +11,7 @@
 <p>I am always eager to connect with other professionals in the tech community, collaborate on exciting projects, and explore new opportunities. Let's connect and create something amazing together!
 </p>
 </div>
-## Familiar Techs
+<h1>Familiar Techs</h1>
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,7 +24,7 @@
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-<h3>My GitHub contributions summary</h3>
+<h1>My GitHub contributions summary</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdause-al-mahmud&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
