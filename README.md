@@ -28,6 +28,8 @@
 </p>
 <h1>My GitHub contributions summary</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdause-al-mahmud&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdause-al-mahmud&theme=onedark-duo)](https://git.io/streak-stats)
 
-![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdause-al-mahmud&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferdause-al-mahmud&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferdause-al-mahmud&theme=aura_dark)
