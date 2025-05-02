@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mahmud
-<img src="https://media.licdn.com/dms/image/D5616AQFqa2CEWoHLMQ/profile-displaybackgroundimage-shrink_350_1400/0/1716479791789?e=1725494400&v=beta&t=SUEhw0TzyTCMqrSKgR_oiHPdwUW44Pb52ok77bi2O7U" alt="ferdause-al-mahmud GitHub README header image">
+<img src="https://i.ibb.co.com/Gfd6VpJJ/Chat-GPT-Image-May-2-2025-05-33-55-PM.png" alt="ferdause-al-mahmud GitHub README header image">
 <p><a href="https://www.linkedin.com/in/ferdause-al-mahmud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/gamer.poka/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 <h1>About Me</h1>
