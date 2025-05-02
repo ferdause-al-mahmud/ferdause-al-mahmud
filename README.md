@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mahmud
-<img src="https://i.ibb.co.com/Gfd6VpJJ/Chat-GPT-Image-May-2-2025-05-33-55-PM.png" alt="Ferdause Al Mahmud GitHub Header" width="100%"/>
+<img src="https://i.ibb.co.com/Gfd6VpJJ/Chat-GPT-Image-May-2-2025-05-33-55-PM.png" alt="Ferdause Al Mahmud GitHub Header" style="width:1000px; height:300px;"/>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ferdause-al-mahmud/">
